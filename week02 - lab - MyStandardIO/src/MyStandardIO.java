@@ -4,7 +4,6 @@
  * Purpose: Demonstrate use of standard input
  */
 
-//in progress
 
 // Import each required Java class
 import java.io.IOException;
