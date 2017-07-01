@@ -77,10 +77,12 @@ public class StandardIODemo
     System.out.println("Your favorite short is: " + myShort);
     
     // Prompt the user to enter a byte
-    System.out.println("Enter your favoritebyte value:");
+    System.out.println("Enter your favorite byte value:");
     
     // the nextByte() method scans the next byte value
     byte myByte = scannerIn.nextByte();
     System.out.println("Your favorite byte is: " + myByte);
+    
+    scannerIn.close();
     }
   }
