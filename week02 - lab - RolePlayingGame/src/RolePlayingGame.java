@@ -1,5 +1,5 @@
 /*
-* File: SelectionIfDemo.java
+* File: RolePlayingGame.java
 * Author: Nicole Donnelly
 * Date: 20170701
 * Purpose: This program demonstrates the use of switch selection

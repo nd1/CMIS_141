@@ -1,4 +1,4 @@
-/* File: MyStandardIO.java
+/* File: MySelectionIfDemo.java
  * Author: Nicole Donnelly
  * Date: 20170701
  * Purpose:  return the total tax due based on an individual’s income
