@@ -58,5 +58,9 @@ public class SelectionIfDemo {
     
     // Output the number of days in the selected month
     System.out.println("Number of Days in month " + month + " is " + numDays);
+    
+    // close the scanner
+    scannerIn.close();
+    
     }
   }
