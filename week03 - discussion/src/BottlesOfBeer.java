@@ -1,10 +1,10 @@
-/* File: bottlesOfBeer.java
+/* File: BottlesOfBeer.java
  * Author: Nicole Donnelly
  * Date: 20170703
  * Purpose: demonstrate use of a while loop by printing the lyrics to "99 Bottles of Beer"
  */
 
-public class bottlesOfBeer {
+public class BottlesOfBeer {
   public static void main(String[] args) {
     
     // declare variables
