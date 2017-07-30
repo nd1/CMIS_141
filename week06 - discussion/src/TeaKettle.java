@@ -40,8 +40,6 @@ public class TeaKettle {
   public TeaKettle(int tempSetting, double waterAmount) { 
     // constructor to make tea with specified temp and water amount
     this(true, false, true, tempSetting, waterAmount);
-    this.tempSetting = tempSetting;
-    this.waterAmount = waterAmount;
   }
   
   // getter methods
